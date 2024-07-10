@@ -4,7 +4,7 @@ Welcome to the Smart Recipe Recommendation System! This undertaking makes use of
 
 # Features
 
-   - Collect recipes from the Spoonacular API
+   - Collect recipes from the Edamam API
    - Clean and preprocess recipe statistics
    - Recommend recipes based on supplied elements
    - Recommend similar recipes primarily based on consumer's appreciated recipes
