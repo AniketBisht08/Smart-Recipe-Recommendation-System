@@ -1,0 +1,11 @@
+# .gitIgnore
+
+# directories
+
+venv/
+__pycache__/
+
+
+# files
+
+config.py
