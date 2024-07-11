@@ -17,3 +17,6 @@ Welcome to the Smart Recipe Recommendation System! This undertaking makes use of
 
 -> For installing all the requirements modules, run command :
     pip install -r requirements.txt
+
+# For watching the project :
+      Go to 'master' branch.
